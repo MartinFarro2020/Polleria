@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="./style.css">
+    <title>Polleria</title>
+    <script src="./main.js" defer></script>
+</head>
+<body>
+    <div class="darkmode">
+        <div class="container_header">
+            <div class="content_navbar">
+                <nav class="navbar" id="navbar">         
+                    <div class="logo">
+                        <img src="./img/gorro-chef.png" />
+                    </div>
+                    <ul class="nav_home_products">
+                        <li>
+                            <a href="#content_body">Home</a>
+                        </li>
+                        <li>
+                            <a href="#buttons">Products</a>
+                        </li>
+                    </ul>
+                    <i class='bx bx-cart bx-tada-hover icon_cart'>
+                        <span class="ball"></span>
+                    </i>
+                </nav>
+            </div>
+            <div class="content_body" id="content_body">
+                <div class="header_content" id="header_content">
+                    <div class="header_info">
+                        <img src="./img/peru.png"/>
+                    </div>
+        
+                    <div class="header_title">               
+                        <div class="pollo">
+                            <div class="title_pollo">
+                                <h2>Pollo A la Brasa</h2>
+                                <p>CUZCO</p> 
+                            </div>
+                            <div class="pollo_img">
+                                <img src="./img/pollobrasa02.avif"/>
+                            </div>
+                        </div>
+                    </div>
+    
+                </div>            
+            </div>
+        </div>
+    
+        <div class="data_buttons">
+            <div class="buttons" id="buttons">
+                <button  class="btn" id="all">All</button>
+                <button  class="btn" id="PolloBrasa">Pollo/Brasa</button>
+                <button  class="btn" id="Piqueos">Piqueos</button>
+                <button  class="btn" id="Parrilla">Parrilla</button>
+           </div>
+        </div>
+        
+        <div class="container">
+            <div class="products"></div>
+        </div>
+    
+        <div class="cart">
+            <div class="cart_products"></div>
+            <div class="cart_total">
+                 <div class="cart_total_info">
+                        <p>N° Productos <span id="totalProducts">0</span></p>
+                        <p>Total $ <span id="totalPrice">0</span></p>
+                 </div>
+                 <button class="btn_buy">Comprar</button> 
+            </div>           
+        </div>
+    </div>    
+</body>
+
+</html>

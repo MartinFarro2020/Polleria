@@ -1,0 +1,101 @@
+{
+	"Pollos":[
+		{
+		    "id":1,
+		    "nombre":"1/8 Pollo a la Brasa",
+		    "categoria":"PolloBrasa",
+                    "url":"https://liderdelivery.com/wp-content/uploads/2020/08/un-octavo-pollo-a-la-brasa-1.jpg",
+		    "stock":20,			
+		    "precio":10	
+		},
+		{   
+		    "id":2,
+		    "nombre":"1/4 Pollo a la Brasa",
+		    "categoria":"PolloBrasa",
+		    "url":"https://brasaycarbon.pe/wp-content/uploads/2020/12/brasa-cuarto-de-pollo.jpg",
+		    "stock":20,
+		    "precio":15	
+		},
+		{	
+		    "id":3,
+		    "nombre":"1/2 Pollo a la Brasa",
+		    "categoria":"PolloBrasa",
+		    "url":"https://tofuu.getjusto.com/orioneat-prod/fJQGssCHo4EBtd6ar-Medio%20Pollo%20con%20%20teque%C3%B1os.jpg",	
+		    "stock":20,
+		    "precio":30	
+		},
+		{
+		    "id":4,		
+		    "nombre":"1 Pollo a la Brasa",
+		    "categoria":"PolloBrasa",
+		    "url":"https://static.mercadonegro.pe/wp-content/uploads/2022/07/15144726/pollo-a-la-brasa.png",	
+		    "stock":20,
+		    "precio":60	
+		},
+		{   
+		    "id":5,
+		    "nombre":"AnticuchosDeCorazon",
+		    "categoria":"Piqueos",
+		    "url":"https://pisco.rest/wp-content/uploads/2023/01/pfcr-001.jpg",	
+		    "stock":24,
+		    "precio":8
+		},
+		{   
+		    "id":6,
+		    "nombre":"BrochetasDePollo",
+		    "categoria":"Piqueos",
+		    "url":"https://saborgourmet.com/wp-content/uploads/b2.jpg",	
+		    "stock":24,
+		    "precio":12	
+		},
+		{	
+                    "id":7,
+		    "nombre":"Pancita",
+		    "categoria":"Piqueos",
+	            "url":"https://comidasperuanas.net/wp-content/uploads/2020/11/Pancita-a-la-parrilla-peruana.jpg",			
+		    "stock":24,
+		    "precio":7
+		},
+		{	
+		    "id":8,
+		    "nombre":"Parrilla Mixta",
+		    "categoria":"Parrilla",
+	            "url":"https://okrecetas.com/recetas-de-carnes/img600/parrillada-mixta.jpg",			
+		    "stock":24,
+		    "precio":16	
+		},
+		{	
+		    "id":9,
+		    "nombre":"Parrilla de Res",
+		    "categoria":"Parrilla",
+	            "url":"https://cocina-casera.com/wp-content/uploads/2018/01/Carne-a-la-parilla.jpg",			
+		    "stock":24,
+		    "precio":16	
+		},
+		{	
+                    "id":10,
+		    "nombre":"Parrilla de Cerdo",
+		    "categoria":"Parrilla",
+	            "url":"https://www.tresjotas.com/wp-content/uploads/2020/02/carne-de-cerdo-para-asar.jpg",			
+		    "stock":24,
+		    "precio":16		
+		},
+		{	
+                    "id":11,
+		    "nombre":"Costillar de Res",
+		    "categoria":"Parrilla",
+	            "url":"https://i.pinimg.com/474x/e6/c7/55/e6c75524e93fcc637f5def5111ecfac6.jpg",			
+		    "stock":24,
+		    "precio":16		
+		},
+		{	
+                    "id":12,
+		    "nombre":"Costillar de Cerdo",
+		    "categoria":"Parrilla",
+	            "url":"https://cdn0.recetasgratis.net/es/posts/6/3/0/costillar_de_cerdo_a_la_parrilla_38036_orig.jpg",			
+		    "stock":24,
+		    "precio":16		
+		}
+
+	]
+}
