@@ -1,4 +1,5 @@
 const BASE_URL = "./pollobrasa.json";
+/*esta es la dirección*/
 /*http://localhost:3000/Pollos */
 async function getProducts(){
     try {
